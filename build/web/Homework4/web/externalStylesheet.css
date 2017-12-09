@@ -1,0 +1,108 @@
+
+ .wrap{text-align:center; width:90%; margin:0 auto; border:8px solid black; margin-top:25px; }
+ 
+  .header{background-color:green; text-align:left; padding: 25px; }
+
+   .main{background-color:gold;text-align:left; padding: 25px; }
+
+    .footer{background-color:green;text-align:left; padding: 25px; }
+.headerImg{float:left; width: 150px;}
+.headerText{float:left; height: 105px; padding-top:25px;}
+
+
+.navcontainer { margin-left: 30px;}
+
+/*Fat Erik's Pipelist*/
+.navlist
+{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+.navlist li
+{
+display: inline;
+padding: 0;
+margin: 0;
+}
+
+.navlist li:before { content: "| "; }
+.navlist li:first-child:before { content: ""; }
+
+/*IE workaround*/
+/*All IE browsers*/
+* html #navlist li
+{
+border-left: 1px solid black;
+padding: 0 0.4em 0 0.4em;
+margin: 0 0.4em 0 -0.4em;
+}
+
+/*Win IE browsers - hide from Mac IE\*/
+* html .navlist { height: 1%; }
+
+* html .navlist li
+{
+display: block;
+float: left;
+}
+
+/*End hide*/
+/*Mac IE 5*/
+* html .navlist li:first-child { border-left: 0; }
+
+table {
+
+    width: 98%;
+     border-collapse: collapse;
+    background-color: coral;
+}
+
+table, th, td{
+    
+   border: 2px solid black;
+   
+   
+}
+
+
+
+body{
+    background-color:gold;
+}
+
+th{
+    height: 40px;
+    text-align: left;
+    background-color: #FFFF99;
+    
+    
+}
+
+tr:nth-child(even) {background-color: #F2F2F2;}
+tr:hover {background-color: #CCCCCC}
+
+table, th{
+    padding: 10px;
+    
+}
+td{
+    vertical-align: bottom;
+   border-collapse: collapse;
+    color: black;
+    
+}
+
+
+
+input[readonly] {background-color:gray;}
+input{
+    border: 2px solid coral;
+    border-radius: 4px;
+}
+
+label{
+    color: white;
+    
+}
