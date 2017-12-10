@@ -74,29 +74,40 @@
           <h2 class="mb-5">Homework 5</h2>
         </div>
         <div class="row no-gutters">
+            
           <div class="col-lg-6">
-            <a class="portfolio-item" href="http://f17-msci3300-10.azurewebsites.net/Homework6/">
+            <a class="portfolio-item" href="http://f17-msci3300-g3.azurewebsites.net/G3_Project/">
               <span class="caption">
                 <span class="caption-content">
-                  <h2>Homework 6 Application</h2>
-                  <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
+                  <h2>Final Project</h2>
+                  <p class="mb-0">Final project for Data Communications. A Task Manager application. Some functionality was inoperable.</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="HW6PDF.pdf">
+            <a class="portfolio-item" href="Screen Sketches.pdf">
               <span class="caption">
                 <span class="caption-content">
-                  <h2>Homework 5 Flow Diagrams</h2>
-                  <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
+                  <h2>Screen Sketches</h2>
+                  <p class="mb-0">Brainstorming activity on how to design the Final Project.</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
             </a>
           </div>
-       
+       <div class="col-lg-6">
+            <a class="portfolio-item" href="http://f17-msci3300-g3.azurewebsites.net/User%20Story%20Cards.pdf">
+              <span class="caption">
+                <span class="caption-content">
+                  <h2>User Stories Final Project</h2>
+                  <p class="mb-0">User stories brainstormed using the Agile method to develop this application.</p>
+                </span>
+              </span>
+              <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
+            </a>
+          </div>
         </div>
       </div>
     </section>

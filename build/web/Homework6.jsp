@@ -71,43 +71,32 @@
       <div class="container">
         <div class="content-section-heading text-center">
           <h3 class="text-secondary mb-0">Portfolio</h3>
-          <h2 class="mb-5">Homework 5</h2>
+          <h2 class="mb-5">Final Project</h2>
         </div>
         <div class="row no-gutters">
-            
           <div class="col-lg-6">
-            <a class="portfolio-item" href="http://f17-msci3300-g3.azurewebsites.net/G3_Project/">
+            <a class="portfolio-item" href="http://f17-msci3300-10.azurewebsites.net/Homework6/">
               <span class="caption">
                 <span class="caption-content">
                   <h2>Homework 6 Application</h2>
-                  <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
+                  <p class="mb-0">Polishing off the roster database website with a consistent wireframe and update/search functionality</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="Screen Sketches.pdf">
+            <a class="portfolio-item" href="HW6PDF.pdf">
               <span class="caption">
                 <span class="caption-content">
-                  <h2>Screen Sketches</h2>
-                  <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
+                  <h2>Homework 6 Flow Diagrams</h2>
+                  <p class="mb-0">Example of flow diagrams used to brain storm how the application would function</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
             </a>
           </div>
-       <div class="col-lg-6">
-            <a class="portfolio-item" href="http://f17-msci3300-g3.azurewebsites.net/User%20Story%20Cards.pdf">
-              <span class="caption">
-                <span class="caption-content">
-                  <h2>User Stories Homework 6</h2>
-                  <p class="mb-0">Strawberries are such a tasty snack, especially with a little sugar on top!</p>
-                </span>
-              </span>
-              <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
-            </a>
-          </div>
+       
         </div>
       </div>
     </section>

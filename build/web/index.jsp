@@ -69,6 +69,8 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h2>Greg Frommelt - Online Portfolio</h2>
+            <img class="img-fluid" src="profile.jpg" alt="" style="border: #000000 6px outset;">
+
             <p class="lead mb-5">I am currently Senior Accounting and BAIS Student at The University of Iowa on track to graduate in May of 2018 with the 150 SH needed to take the CPA exam. On top of focusing on academics, I have held leadership positions in 4 different student organizations, have had work experience in several different industries including accounting and healthcare.</p>
             <a class="btn btn-dark btn-xl js-scroll-trigger" href="http://f17-msci3300-10.azurewebsites.net/HW2/resume.html">View My Resume  Here</a>
           </div>
@@ -91,7 +93,7 @@
               <span class="caption">
                 <span class="caption-content">
                   <h2>Homework 3</h2>
-                  <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
+                  <p class="mb-0">A salary calculator taking into account taxes and more!</p>
                 </span>
               </span>
               <img class="img-fluid" src="rekenmachine.jpg" alt="">
@@ -102,7 +104,7 @@
               <span class="caption">
                 <span class="caption-content">
                   <h2>Homework 4</h2>
-                  <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
+                  <p class="mb-0">A program reading information from a database, specifically football players for The Green Bay Packers</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
@@ -113,7 +115,7 @@
               <span class="caption">
                 <span class="caption-content">
                   <h2>Homework 5</h2>
-                  <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
+                  <p class="mb-0">Building on Homework 4, this includes basic CSS and add/delete functionality.</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
@@ -124,7 +126,7 @@
               <span class="caption">
                 <span class="caption-content">
                   <h2>Homework 6</h2>
-                  <p class="mb-0">Strawberries are such a tasty snack, especially with a little sugar on top!</p>
+                  <p class="mb-0">Polishing off the roster database website with a consistent wireframe and update/search functionality</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
@@ -135,7 +137,7 @@
               <span class="caption">
                 <span class="caption-content">
                   <h2>Final Project</h2>
-                  <p class="mb-0">A yellow workspace with some scissors, pencils, and other objects.</p>
+                  <p class="mb-0">Final project for Data Communications. A Task Manager application. Some functionality was inoperable.</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
