@@ -28,28 +28,24 @@
     <a class="menu-toggle rounded" href="#">
       <i class="fa fa-bars"></i>
     </a>
-    <nav id="sidebar-wrapper">
+ <nav id="sidebar-wrapper">
       <ul class="sidebar-nav">
         <li class="sidebar-brand">
           <a class="js-scroll-trigger" href="#page-top">Start Bootstrap</a>
         </li>
         <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#page-top">Home</a>
+          <a class="js-scroll-trigger" href="index.jsp">Home</a>
         </li>
         <li class="sidebar-nav-item">
           <a class="js-scroll-trigger" href="#about">About</a>
         </li>
         <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#services">Services</a>
-        </li>
-        <li class="sidebar-nav-item">
           <a class="js-scroll-trigger" href="#portfolio">Portfolio</a>
         </li>
-        <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#contact">Contact</a>
-        </li>
+       
       </ul>
     </nav>
+
 
     <!-- Header -->
     <header class="masthead d-flex">
@@ -72,7 +68,7 @@
             <img class="img-fluid" src="profile.jpg" alt="" style="border: #000000 6px outset;">
 
             <p class="lead mb-5">I am currently Senior Accounting and BAIS Student at The University of Iowa on track to graduate in May of 2018 with the 150 SH needed to take the CPA exam. On top of focusing on academics, I have held leadership positions in 4 different student organizations, have had work experience in several different industries including accounting and healthcare.</p>
-            <a class="btn btn-dark btn-xl js-scroll-trigger" href="http://f17-msci3300-10.azurewebsites.net/HW2/resume.html">View My Resume  Here</a>
+            <a class="btn btn-dark btn-xl js-scroll-trigger" href="Greg Frommelt Resume.pdf">View My Resume  Here</a>
           </div>
         </div>
       </div>
@@ -93,7 +89,7 @@
               <span class="caption">
                 <span class="caption-content">
                   <h2>Homework 3</h2>
-                  <p class="mb-0">A salary calculator taking into account taxes and more!</p>
+                  <p class="mb-0">A salary calculator taking into account taxes and more! This started my CSS skills and helped me understand how helpful these applications can be.</p>
                 </span>
               </span>
               <img class="img-fluid" src="rekenmachine.jpg" alt="">
@@ -150,7 +146,7 @@
     <!-- Call to Action -->
     <section class="content-section bg-primary text-white">
       <div class="container text-center">
-        <h2 class="mb-4">The buttons below are impossible to resist...</h2>
+        <h2 class="mb-4">Lets Connect!</h2>
         <a href="https://github.com/gfrommelt"" class="btn btn-xl btn-light mr-4">Git Hub</a>
         <a href="https://www.linkedin.com/in/greg-frommelt-452840b7/" class="btn btn-xl btn-dark">LinkedIn</a>
       </div>

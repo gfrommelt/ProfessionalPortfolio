@@ -20,7 +20,11 @@
 
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.min.css" rel="stylesheet">
-
+<style>
+p {
+        color: white;
+}
+</style>
   </head>
 
   <body id="page-top">
@@ -28,7 +32,7 @@
     <a class="menu-toggle rounded" href="#">
       <i class="fa fa-bars"></i>
     </a>
-    <nav id="sidebar-wrapper">
+<nav id="sidebar-wrapper">
       <ul class="sidebar-nav">
         <li class="sidebar-brand">
           <a class="js-scroll-trigger" href="#page-top">Start Bootstrap</a>
@@ -40,16 +44,12 @@
           <a class="js-scroll-trigger" href="#about">About</a>
         </li>
         <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#services">Services</a>
-        </li>
-        <li class="sidebar-nav-item">
           <a class="js-scroll-trigger" href="#portfolio">Portfolio</a>
         </li>
-        <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#contact">Contact</a>
-        </li>
+       
       </ul>
     </nav>
+
 
     <!-- Header -->
     <header class="masthead d-flex">
@@ -58,7 +58,8 @@
         <h3 class="mb-5">
           <em>Accounting and Information Systems Student Portfolio</em>
         </h3>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+        <p>This Homework was more challenging than the previous assignments. I learned lessons in CSS about how some features can overshadow others. Specifically the function with showing what your cursor was hovering over was not able to be seen in some rows. I also saw how important a working wireframe is in making a site operate well and be clean.</p>
+
       </div>
       <div class="overlay"></div>
     </header>
@@ -71,7 +72,7 @@
       <div class="container">
         <div class="content-section-heading text-center">
           <h3 class="text-secondary mb-0">Portfolio</h3>
-          <h2 class="mb-5">Final Project</h2>
+          <h2 class="mb-5">Homework 6</h2>
         </div>
         <div class="row no-gutters">
           <div class="col-lg-6">
@@ -101,44 +102,19 @@
       </div>
     </section>
 
-    <!-- Call to Action -->
-    <section class="content-section bg-primary text-white">
+   <section class="content-section bg-primary text-white">
       <div class="container text-center">
-        <h2 class="mb-4">The buttons below are impossible to resist...</h2>
-        <a href="#" class="btn btn-xl btn-light mr-4">Click Me!</a>
-        <a href="#" class="btn btn-xl btn-dark">Look at Me!</a>
+        <h2 class="mb-4">Lets Connect!</h2>
+        <a href="https://github.com/gfrommelt"" class="btn btn-xl btn-light mr-4">Git Hub</a>
+        <a href="https://www.linkedin.com/in/greg-frommelt-452840b7/" class="btn btn-xl btn-dark">LinkedIn</a>
       </div>
     </section>
 
     <!-- Map -->
-    <section id="contact" class="map">
-      <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
-      <br/>
-      <small>
-        <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
-      </small>
-    </section>
-
-    <!-- Footer -->
+     <!-- Footer -->
     <footer class="footer text-center">
       <div class="container">
-        <ul class="list-inline mb-5">
-          <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" href="#">
-              <i class="icon-social-facebook"></i>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" href="#">
-              <i class="icon-social-twitter"></i>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white" href="#">
-              <i class="icon-social-github"></i>
-            </a>
-          </li>
-        </ul>
+       
         <p class="text-muted small mb-0">Copyright &copy; Your Website 2017</p>
       </div>
     </footer>
