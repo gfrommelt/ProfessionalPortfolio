@@ -68,7 +68,7 @@
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-10 mx-auto">
-            <h2>Greg Frommelt - Online Portfolio Page</h2>
+            <h2>Greg Frommelt - Online Portfolio</h2>
             <p class="lead mb-5">I am currently Senior Accounting and BAIS Student at The University of Iowa on track to graduate in May of 2018 with the 150 SH needed to take the CPA exam. On top of focusing on academics, I have held leadership positions in 4 different student organizations, have had work experience in several different industries including accounting and healthcare.</p>
             <a class="btn btn-dark btn-xl js-scroll-trigger" href="http://f17-msci3300-10.azurewebsites.net/HW2/resume.html">View My Resume  Here</a>
           </div>
@@ -76,47 +76,6 @@
       </div>
     </section>
 
-    <!-- Services -->
-    <section class="content-section bg-primary text-white text-center" id="services">
-      <div class="container">
-        <div class="content-section-heading">
-          <h3 class="text-secondary mb-0">Personal</h3>
-          <h2 class="mb-5">Strengths</h2>
-        </div>
-        <div class="row">
-          <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <span class="service-icon rounded-circle mx-auto mb-3">
-              <i class="icon-screen-smartphone"></i>
-            </span>
-            <h4>
-              <strong>Technical Skills</strong>
-            </h4>
-            <p class="text-faded mb-0">Experience in SQL, HTML and Java</p>
-          </div>
-          <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <span class="service-icon rounded-circle mx-auto mb-3">
-              <i class="icon-pencil"></i>
-            </span>
-            <h4>
-              <strong>Attention to Detail</strong>
-            </h4>
-            <p class="text-faded mb-0">Strong experience in making sure everything is just right</p>
-          </div>
-          <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
-            <span class="service-icon rounded-circle mx-auto mb-3">
-              <i class="icon-like"></i>
-            </span>
-            <h4>
-              <strong>Speaking Skills</strong>
-            </h4>
-            <p class="text-faded mb-0"> Strong public speaking and communications skills. 
-              <i class="fa fa-heart"></i>
-              Start Bootstrap!</p>
-          </div>
-         
-        </div>
-      </div>
-    </section>
 
   
     <!-- Portfolio -->
@@ -127,8 +86,19 @@
           <h2 class="mb-5">Recent Projects</h2>
         </div>
         <div class="row no-gutters">
+            <div class="col-lg-6">
+            <a class="portfolio-item" href="http://f17-msci3300-10.azurewebsites.net/Homework3/">
+              <span class="caption">
+                <span class="caption-content">
+                  <h2>Homework 3</h2>
+                  <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
+                </span>
+              </span>
+              <img class="img-fluid" src="rekenmachine.jpg" alt="">
+            </a>
+          </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="http://f17-msci3300-10.azurewebsites.net/Homework4/">
+            <a class="portfolio-item" href="Homework4.jsp">
               <span class="caption">
                 <span class="caption-content">
                   <h2>Homework 4</h2>
@@ -139,7 +109,7 @@
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="http://f17-msci3300-10.azurewebsites.net/Homework5/">
+            <a class="portfolio-item" href="Homework5.jsp">
               <span class="caption">
                 <span class="caption-content">
                   <h2>Homework 5</h2>
@@ -150,7 +120,7 @@
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="http://f17-msci3300-10.azurewebsites.net/Homework6/">
+            <a class="portfolio-item" href="Homework6.jsp">
               <span class="caption">
                 <span class="caption-content">
                   <h2>Homework 6</h2>
@@ -161,10 +131,10 @@
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="#">
+            <a class="portfolio-item" href="FinalProject.jsp">
               <span class="caption">
                 <span class="caption-content">
-                  <h2>Workspace</h2>
+                  <h2>Final Project</h2>
                   <p class="mb-0">A yellow workspace with some scissors, pencils, and other objects.</p>
                 </span>
               </span>
@@ -179,40 +149,17 @@
     <section class="content-section bg-primary text-white">
       <div class="container text-center">
         <h2 class="mb-4">The buttons below are impossible to resist...</h2>
-        <a href="#" class="btn btn-xl btn-light mr-4">Click Me!</a>
-        <a href="#" class="btn btn-xl btn-dark">Look at Me!</a>
+        <a href="https://github.com/gfrommelt"" class="btn btn-xl btn-light mr-4">Git Hub</a>
+        <a href="https://www.linkedin.com/in/greg-frommelt-452840b7/" class="btn btn-xl btn-dark">LinkedIn</a>
       </div>
     </section>
 
-    <!-- Map -->
-    <section id="contact" class="map">
-      <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
-      <br/>
-      <small>
-        <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
-      </small>
-    </section>
+   
 
     <!-- Footer -->
     <footer class="footer text-center">
       <div class="container">
-        <ul class="list-inline mb-5">
-          <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" href="#">
-              <i class="icon-social-facebook"></i>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" href="#">
-              <i class="icon-social-twitter"></i>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white" href="#">
-              <i class="icon-social-github"></i>
-            </a>
-          </li>
-        </ul>
+       
         <p class="text-muted small mb-0">Copyright &copy; Your Website 2017</p>
       </div>
     </footer>
